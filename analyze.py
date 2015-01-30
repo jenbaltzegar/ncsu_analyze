@@ -25,3 +25,5 @@ def analyze(filename):
 script = sys.argv[0]
 inputfile = sys.argv[1]
 outputfile = sys.argv[2]
+analyze(inputfile)
+
